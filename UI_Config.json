@@ -1,0 +1,12 @@
+{
+    "output_file": "config.json",
+    
+    "openConfiguration":{
+      "type": "button",
+      "label": "Open Read me as website",
+      "tooltip": "Example how to use the Browser Window",
+      "function": "OpenReadMe",
+      "wsevent": "",
+      "group": ""
+    }
+}
